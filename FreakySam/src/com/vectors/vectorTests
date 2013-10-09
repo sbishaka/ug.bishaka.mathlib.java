@@ -1,0 +1,14 @@
+Transforming between vector and polar coordinates
+
+Polar			Cartesian
+25@45
+				(12,5,0)
+200@60
+				(8, -6)	
+20@80
+
+=10@~53.1		(6, 8)
+
+ARITHMETICE TESTS
+
+C( (1,4), (8,10) ) + D( (1,4), (7,3) ) =		

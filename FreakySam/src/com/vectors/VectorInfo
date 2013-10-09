@@ -1,0 +1,13 @@
+Benefits of the dot product
+	Aid in perpendicular check
+			if A.B = 0, then A and B are perpendicular
+	Angle check
+	(assuming q is the angle between vectors A and B)	
+			if A.B > 0, then q < 90;
+			if A.B < 0, then q > 90;
+			
+			
+Benefits of the cross product,
+	Returns a vector that is perpendicular to both original vectors.			
+			
+			 		
